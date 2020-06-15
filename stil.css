@@ -1,0 +1,40 @@
+/* CSS Document */
+
+body {
+	background-image:url(Pozadina/pozadina.jpg); 
+	background-repeat: no-repeat; 
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+p {
+	width:770px;
+	text-align:justify;
+	background: #DCDCDC;
+	padding: 20px;
+	margin-top:10px;
+	margin-bottom:5px;
+}	
+
+h3 {
+	margin-top:-15px;
+	color: #66CDAA;	
+}
+
+h2 {
+	margin-top:100px;
+	color: #66CDAA;
+}
+
+a:link {
+	color: #66CDAA;
+}
+
+a:visited {
+	color: #C0C0C0;
+}
+
+a:hover {
+	color: #00FA9A;
+}
+
